@@ -60,3 +60,6 @@
 [submodule "FillDDCForPIE"]
 	path = FillDDCForPIE
 	url = https://github.com/ProjectBorealis/FillDDCForPIE.git
+[submodule "ModularGameplayActors"]
+	path = ModularGameplayActors
+	url = https://gitlab.com/xalagor/modulargameplayactors.git
