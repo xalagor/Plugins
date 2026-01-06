@@ -32,10 +32,28 @@
 	branch = main
 [submodule "StevesUEHelpers"]
 	path = StevesUEHelpers
-	url = https://github.com/ProjectBorealis/StevesUEHelpers.git
+	url = https://github.com/sinbad/StevesUEHelpers
 [submodule "BruceBulkImporter"]
 	path = BruceBulkImporter
 	url = https://github.com/Lost-Cosmonauts/BruceBulkImporter.git
 [submodule "Cinemos"]
 	path = Cinemos
 	url = https://github.com/Lost-Cosmonauts/Cinemos.git
+[submodule "LyraPlugins"]
+	path = LyraPlugins
+	url = https://gitlab.com/lyra-fundament/lyra-plugins
+[submodule "GameFeatures/ShooterCore"]
+	path = GameFeatures/ShooterCore
+	url = https://gitlab.com/lyra-fundament/shootercore
+[submodule "GameFeatures/ShooterExplorer"]
+	path = GameFeatures/ShooterExplorer
+	url = https://gitlab.com/lyra-fundament/shooterexplorer
+[submodule "GameFeatures/ShooterMaps"]
+	path = GameFeatures/ShooterMaps
+	url = https://gitlab.com/lyra-fundament/shootermaps
+[submodule "GameFeatures/ShooterTests"]
+	path = GameFeatures/ShooterTests
+	url = https://gitlab.com/lyra-fundament/shootertests
+[submodule "GameFeatures/TopDownArena"]
+	path = GameFeatures/TopDownArena
+	url = https://gitlab.com/lyra-fundament/topdownarena
