@@ -22,10 +22,6 @@
 	path = UEGitPlugin
 	url = https://github.com/ProjectBorealis/UEGitPlugin.git
 	branch = dev
-[submodule "VisualStudioTools"]
-	path = VisualStudioTools
-	url = https://github.com/ProjectBorealis/vc-ue-extensions
-	branch = main
 [submodule "StevesUEHelpers"]
 	path = StevesUEHelpers
 	url = https://github.com/sinbad/StevesUEHelpers
@@ -53,3 +49,36 @@
 [submodule "GameFeatures/TopDownArena"]
 	path = GameFeatures/TopDownArena
 	url = https://gitlab.com/lyra-fundament/topdownarena
+[submodule "VisualStudioTools"]
+	path = VisualStudioTools
+	url = https://github.com/ProjectBorealis/vc-ue-extensions.git
+[submodule "AutoSizeComments"]
+	path = AutoSizeComments
+	url = https://github.com/AutoSizeComments/AutoSizeComments
+[submodule "Hermes"]
+	path = Hermes
+	url = https://github.com/xalagor/Hermes.git
+[submodule "GameFeatures/Haderoth"]
+	path = GameFeatures/Haderoth
+	url = https://gitlab.com/Haderoth/haderoth.git
+[submodule "UEElementusModules"]
+	path = UEElementusModules
+	url = https://github.com/xalagor/UEElementusModules.git
+[submodule "UEScripts"]
+	path = UEScripts
+	url = https://github.com/xalagor/UEScripts.git
+[submodule "GameFeatures/Alicmore"]
+	path = GameFeatures/Alicmore
+	url = https://gitlab.com/xalagor/Alicmore
+[submodule "GameFeatures/Vandal"]
+	path = GameFeatures/Vandal
+	url = https://gitlab.com/skillbox-xalagor/vandal.git
+[submodule "GameFeatures/Siberian"]
+	path = GameFeatures/Siberian
+	url = https://gitlab.com/xalagor/siberian
+[submodule "GameFeatures/Vex"]
+	path = GameFeatures/Vex
+	url = https://github.com/xalagor/Vex
+[submodule "GameFeatures/Mooth"]
+	path = GameFeatures/Mooth
+	url = https://gitlab.com/xalagor/mooth
