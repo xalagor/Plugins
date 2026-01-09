@@ -82,3 +82,6 @@
 [submodule "GameFeatures/Mooth"]
 	path = GameFeatures/Mooth
 	url = https://gitlab.com/xalagor/mooth
+[submodule "Web3S_Plugin"]
+	path = Web3S_Plugin
+	url = e:/UnrealEngine-Angelscript/Plugins_External/Web3S_Plugin
